@@ -1,0 +1,1 @@
+print("amo aulas de informatica")
